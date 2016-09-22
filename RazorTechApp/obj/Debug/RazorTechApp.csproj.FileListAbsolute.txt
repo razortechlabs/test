@@ -1,0 +1,6 @@
+C:\Users\Graham\Software Development\test\RazorTechApp\bin\RazorTechApp.dll.config
+C:\Users\Graham\Software Development\test\RazorTechApp\bin\RazorTechApp.dll
+C:\Users\Graham\Software Development\test\RazorTechApp\bin\RazorTechApp.pdb
+C:\Users\Graham\Software Development\test\RazorTechApp\obj\Debug\RazorTechApp.csprojResolveAssemblyReference.cache
+C:\Users\Graham\Software Development\test\RazorTechApp\obj\Debug\RazorTechApp.dll
+C:\Users\Graham\Software Development\test\RazorTechApp\obj\Debug\RazorTechApp.pdb
